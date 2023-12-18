@@ -8,7 +8,7 @@ Hi, I'm Vic⚡ - an independent (mostly) frontend developer, based in [Nairobi](
 3. JavaScript
 4. Svelte
 ## Other Technologies/Skills
-SASS, TailwindCSS, Vue JS, Git, Python, WordPress, Figma, Responsive web Design, CLI, DevTools, Astro 
+SASS, TailwindCSS, Vue JS, Git, Python, WordPress, Figma, Responsive Web Design, CLI, DevTools, Astro 
 ## Find Me
 1. [Codepen](https://codepen.io/builtbyvic)
 2. [Stackblitz](https://stackblitz.com/@builtbyvic)
