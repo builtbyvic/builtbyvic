@@ -16,4 +16,4 @@ SASS, TailwindCSS, Vue JS, Git, Python, WordPress, Figma, Responsive Web Design,
 ## For Beginners
 1. [Web Dev Starter Pack](https://builtbyvic.github.io)
 2. [Web Dev Resources](https://tech-bookmarks.vercel.app)
-### note to self: Start Something.
+
